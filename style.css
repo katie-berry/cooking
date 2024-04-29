@@ -1,0 +1,82 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+h1, h2, h5 {
+	font-family: georgia, serif;
+}
+
+h3 {
+	font-size: 20px;
+}
+
+.nav-item, .navbar-brand, .d-flex {
+	font-family: georgia, serif;
+}
+
+.bg-primary {
+	padding: 100px;
+	background-color: #C41E3A !important;
+	margin-bottom: 20px;
+}
+
+.about {
+	background-color:#ffc4d1;
+	padding: 50px;
+}
+
+.img-thumbnail {
+	padding: 50px;
+	padding: 10px;
+}
+
+.card {
+	padding: 15px;
+}
+
+.btn-primary {
+	background-color: #C41E3A;
+}
+
+.btn-primary:hover{
+	background-color: #c96b7b;
+}
+
+
+.nunito-<gfont> {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <300>;
+  font-style: normal;
+}
+
+p, ul, ol, h4 {
+	font-family: "Nunito", sans-serif;
+}
+
+.bio {
+	padding-top:20px;
+}
+
+footer {
+	background-color: lightgrey;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	margin-top: 15px;
+}
+
+.breadcrumb {
+	font-family: "Nunito";
+	padding-left: 20px;
+	padding-top: 12px;
+}
+
+hr.solid {
+	border-top: 10px solid;
+}
+
+
+
+
+
+
+
+
